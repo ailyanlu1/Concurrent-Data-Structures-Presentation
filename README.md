@@ -22,7 +22,7 @@ http://15418.courses.cs.cmu.edu/spring2017content/lectures/17_lockfree/17_lockfr
 
 https://www.cs.cmu.edu/~410-s05/lectures/L31_LockFree.pdf
 
-Graphs: http://davidhcummings.github.io/lockfree/
+http://davidhcummings.github.io/lockfree/
 
 https://www.cs.tau.ac.il/~shanir/concurrent-data-structures.pdf
 
